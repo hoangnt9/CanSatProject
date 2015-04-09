@@ -7,4 +7,4 @@ original source : https://github.com/stanleyseow/RF24
 Added CansatTx ver2 for transmit data from MPU 6050
 
 
-
+MPU6050 : Library to processing the data from sensor to visualize.
